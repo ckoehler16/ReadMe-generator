@@ -34,10 +34,11 @@ Made sure to create a 'develop' branch to run through the application several ti
 ### Contribution
 Created with blood, sweat, and tears :hot_face: by yours truly, Courtney Koehler.
 
-Along with help of:
+Along with the help of:
 - [Google](https://www.google.com/)
 - [Choose A License](https://choosealicense.com/licenses/)
 - My group project members, Amy Rawls and Chris Porter
+- My tutor Scott McAnally
 
 ### License
 ![badge](https://img.shields.io/badge/License-MIT-success.svg)
