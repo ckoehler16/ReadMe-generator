@@ -70,10 +70,10 @@ const questions = [{
       }
    },
    {
-   type: 'checkbox',
+   type: 'list',
    name: 'license',
    message: 'Choose a license for the project (Required)',
-   choices: ['MIT', 'AGPL-3.0', 'MPL-2.0', 'Apache-2.0', 'BSL-1.0'],
+   choices: ['MIT', 'Boost_1.0', 'MPL_2.0', 'Apache_2.0'],
       validate: licenseInput => {
          if (licenseInput) {
          return true;

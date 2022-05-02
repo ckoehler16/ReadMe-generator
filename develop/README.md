@@ -1,40 +1,43 @@
 
-    # The Project That Hates Me
 
-    ![license](https://img.shields.io/badge/license-MIT-success.svg)
+# ugh
+
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
     
-    ## Description
-    an application to drive me insane
+## Description
+ugh
 
-    ## Table of Contents
-    - [Installation](#installation)
-    - [Usage](#usage)
-    - [Credits](#credits)
-    - [License](#license)
-    - [Contribution](#contribution)
-    - [Test](#test)
-    - [Questions](#questions)
+## Table of Contents
+* [Installation](#installation)
+* [Usage](#usage)
+* [Credits](#credits)
+* [License](#license)
+* [Contribution](#contribution)
+* [Test](#test)
+* [Questions](#questions)
 
-    ### Installation:
-    clone this, download that, run this
+### Installation:
+ugh
 
-    ### Usage:
-    yeah, no
+### Usage:
+ugh
 
-    ### Credits:
-    lovely bootcamp people
+### Credits:
+ugh
 
-    ### License:
-    For more information go to: 
-    [License Link](https://opensource.org/licenses/MIT)
+### License:
+MIT
 
-    ### Contribution:
-    please go to GitHub and tell me what I'm doing wrong!
+For more information go to: 
+- [MIT Link](https://choosealicense.com/licenses/mit/)
 
-    ### Test:
-    huh?
+### Contribution:
+ugh
 
-    ### Questions:
-    If you have questions regarding the project, contact me through:
-    - Github:[ckoehler16](https://github/com/ckoehler16)
-    - Email: ckoehler16@gmail.com
+### Test:
+ugh
+
+### Questions:
+If you have questions regarding the project, contact me through:
+- Github:[ugh](https://github/com/ugh)
+- Email: ugh
