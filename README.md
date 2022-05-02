@@ -26,7 +26,8 @@ As a developer I wanted to create and application that would quickly generate a 
 
 
 ### Usage
-I'll be getting to this later...
+Click the link below for a tutorial on how to run the application!
+- [Tutorial](https://drive.google.com/file/d/1eP3xZH6EdZkyaBLiio2iTua_j0H3z9yM/view)
 
 ### Test
 Made sure to create a 'develop' branch to run through the application several times to create the README, inputing different data each time, before I merged the 'develop' branch with the 'main' branch and deployed the application.

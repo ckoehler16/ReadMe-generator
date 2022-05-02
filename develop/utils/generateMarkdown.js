@@ -78,7 +78,7 @@ ${data.test}
 
 ### Questions:
 If you have questions regarding the project, contact me through:
-- Github: [${data.userName}](https://github/com/${data.userName})
+- Github: [${data.userName}](https://github.com/${data.userName})
 - Email: ${data.email}
 `;
 }

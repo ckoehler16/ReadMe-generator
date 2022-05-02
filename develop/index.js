@@ -143,7 +143,7 @@ const questions = [{
 function writeToFile(fileName, data) {
    fs.writeFile(fileName, data, (err) => {
       if (err) throw err;
-      console.log('Information created in README!')
+      console.log('Information created a README!')
    })
 };
 
